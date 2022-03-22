@@ -1,6 +1,6 @@
 public class Hello {
   public static void main(String[] argv) {
-    System.out.println("Hello Kokoro");
+    System.out.println("Hello Kokoro from macOS");
   }
 }
 
